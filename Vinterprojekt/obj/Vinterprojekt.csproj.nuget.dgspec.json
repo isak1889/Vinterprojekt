@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {}
+    "c:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {
+    "c:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
+        "projectUniqueName": "c:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
         "projectName": "Vinterprojekt",
-        "projectPath": "C:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
+        "projectPath": "c:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\Vinterprojekt.csproj",
         "packagesPath": "C:\\Users\\isak.eriksson4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\obj\\",
+        "outputPath": "c:\\Users\\isak.eriksson4\\proggramering\\Vinterprojekt\\Vinterprojekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
